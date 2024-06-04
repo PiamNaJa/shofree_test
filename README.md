@@ -16,3 +16,5 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## ER Diagram
+![ER Diagram](shofree_ER.png)
